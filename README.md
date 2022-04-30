@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @WendelSReinheimer
 Git in progress!
 
 <!---
